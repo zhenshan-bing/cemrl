@@ -1,6 +1,4 @@
-# Masterthesis: Meta-Reinforcement Learning in Non-Stationary and Dynamic Environments
-
-by David Lerch (Technical University Munich)
+Meta-Reinforcement Learning in Non-Stationary and Dynamic Environments
 
 This is the reference implementation of the `Continuous Environment Meta-Reinforcement Learning (CEMRL)` algorithm.
 The implementation is based on [rlkit](https://github.com/vitchyr/rlkit) and [PEARL](https://github.com/katerakelly/oyster).
