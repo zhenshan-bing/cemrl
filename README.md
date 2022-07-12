@@ -28,7 +28,7 @@ Make sure the correct GPU driver is installed and you use a matching version of 
 #### Modified Gym environments:
 We created our own versions of the standard [MuJoCo](https://www.roboti.us/index.html) / [Gym](https://gym.openai.com/) environments.
 Therefore install the following:
-- Clone the [meta_rand_envs](https://github.com/LerchD/meta_rand_envs) repository to `/path/to/meta_rand_envs`.
+- Clone the [meta_rand_envs](https://github.com/BZSROCKETS/meta_rand_envs) repository to `/path/to/meta_rand_envs`.
 
 #### Meta-World
 - Clone the [metaworld](https://github.com/rlworkgroup/metaworld) repository to `/path/to/metaworld`.
