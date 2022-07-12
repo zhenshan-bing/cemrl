@@ -31,6 +31,7 @@ Therefore install the following:
 - Clone the [meta_rand_envs](https://github.com/BZSROCKETS/meta_rand_envs) repository to `/path/to/meta_rand_envs`.
 
 #### Meta-World
+- We have tested Meta-World with CEMRL, but the results are not included in the paper.
 - Clone the [metaworld](https://github.com/rlworkgroup/metaworld) repository to `/path/to/metaworld`.
 - Checkout the commit used in this work in a new branch:  `git checkout -b cemrl_basis 5bcc76e1d455b8de34a044475c9ea3979ca53e2d`
 
