@@ -14,6 +14,7 @@ For our experiments we use MuJoCo200, however due to old PEARL dependencies, old
 - Download the versions mujoco131, mujoco150, mujoco200 and put them in `~/.mujoco`.
 - Set `LD_LIBRARY_PATH` to point to all the MuJoCo binaries (`~/.mujoco/mujoco200/bin`, mujoco150, mujoco200 respectively).
 - Set `LD_LIBRARY_PATH` to point to your gpu drivers (something like `/usr/lib/nvidia-390`, you can find your version by running `nvidia-smi`).
+- A copy of old mujoco files is also included in this repository.
 
 ### Conda environment
 For the remaining dependencies, we recommend using [miniconda](https://docs.conda.io/en/latest/miniconda.html).
