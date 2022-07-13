@@ -18,6 +18,7 @@ For our experiments we use MuJoCo200, however due to old PEARL dependencies, old
 ### Conda environment
 For the remaining dependencies, we recommend using [miniconda](https://docs.conda.io/en/latest/miniconda.html).
 Use the `environment.yml` file to [set up](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#) a conda virtual machine.
+Before doing the command below, make sure you have put "export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/USERNAME/.mujoco/mjpro150/bin" in the "~/.bashrc".
 ```
 conda env create --name cemrl --file=environment.yml
 ```
